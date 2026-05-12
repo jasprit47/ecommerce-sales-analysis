@@ -32,4 +32,5 @@ Performed end-to-end sales analysis on an Indian e-commerce dataset to uncover r
 ## 🚀 How to Run
 1. Clone this repository
 2. Install requirements: `pip install pandas matplotlib openpyxl`
-3.
+3. Open `Ecommerce.ipynb` in Google Colab or Jupyter
+4. Run all cells
