@@ -68,3 +68,5 @@ End-to-end sales analysis on an Indian e-commerce dataset to uncover revenue tre
 | `ecommerce_data.csv` | 5,000 orders dataset |
 | `Details.csv` | 1,500 transaction records with profit data |
 | `*.png` | Visualization exports |
+### Power BI Dashboard
+![Dashboard](dashboard.png)
